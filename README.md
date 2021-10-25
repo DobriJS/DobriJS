@@ -5,6 +5,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark)](https://github.com/DobriJS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true)](https://github.com/DobriJS/mern-socialmedia-client)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true)](https://github.com/vasilyoshev/homepage-ui)
+<a href="https://github.com/DobriJS/mern-socialmedia-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
+  </a>
+  
+ <a href="https://github.com/vasilyoshev/homepage-ui">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
+</a>

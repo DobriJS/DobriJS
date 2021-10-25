@@ -1,5 +1,5 @@
 
-  <h1 align="center"><b>Hi there, I'm Dobri </h1>
+  <h1 align="center"><b>Hi there, I'm Dobri 😊 </h1> 
 
  <br />
 <a href="https://github.com/DobriJS/mern-socialmedia-client">
@@ -39,6 +39,14 @@
   
 <a href="https://nodejs.dev/" target="_blank">
 <img src="https://media.istockphoto.com/vectors/nodejs-vector-logo-backend-programming-in-javascript-server-vector-id1195857274?k=20&m=1195857274&s=170667a&w=0&h=k8oHsv3ehrvhviozLlvhEjGHweiHU7hbBv7bHEkgUqc=" alt="nodejs" width="40" height="40" /> 
+</a>
+  
+<a href="https://expressjs.com/" target="_blank"> 
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="mongodb" width="40" height="40" />
+</a>
+  
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="40" height="40" />
 </a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">

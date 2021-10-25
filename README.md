@@ -31,14 +31,22 @@
   
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
- </a>
+</a>
+  
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" />
+</a>
+  
+<a href="https://nodejs.dev/" target="_blank">
+<img src="https://media.istockphoto.com/vectors/nodejs-vector-logo-backend-programming-in-javascript-server-vector-id1195857274?k=20&m=1195857274&s=170667a&w=0&h=k8oHsv3ehrvhviozLlvhEjGHweiHU7hbBv7bHEkgUqc=" alt="nodejs" width="40" height="40" /> 
+</a>
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
 </a>
   
 <a href="https://mui.com/" target="_blank"> 
- <img src="https://mui.com/static/logo.png" alt="material0ui" width="40" height="40" />
+ <img src="https://mui.com/static/logo.png" alt="materialui" width="40" height="40" />
 </a>
   
 <a href="https://reactjs.org/" target="_blank"> 

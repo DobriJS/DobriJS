@@ -1,7 +1,9 @@
 ## 👋 &nbsp;Hey there! I'm Dobri
 
-* ------------------------------------------------------------------------- \
-* -------------------------------------------------------------------------\
+### 👨🏻‍💻 &nbsp;About Me
+
+* In the search for a position where I can enhance my skillset in web technologies to develop and implement solutions to meet business needs.
+* Seeking a career in Information Technology with a special interest in web development, web design, and mobile application development.
 * -------------------------------------------------------------------------\
 * -------------------------------------------------------------------------.\
 
@@ -13,8 +15,6 @@
    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
 </a>
  <br />
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 

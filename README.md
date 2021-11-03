@@ -17,6 +17,13 @@
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="30" height="30" />&nbsp;
 <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="30" height="30"/>&nbsp;
+<img src="https://daqxzxzy8xq3u.cloudfront.net/wp-content/uploads/2019/04/30123219/react-router-dom-feature-img.jpg" alt="GitHub" width="30px" height="30px" />&nbsp;
 <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="30" height="30" />&nbsp;
 <img src="https://mui.com/static/logo.png" alt="materialui" width="30" height="30" />&nbsp;
-<img src="https://logowik.com/content/uploads/images/heroku8748.jpg" alt="heroku" width="30" height="30" />
+<img src="https://logowik.com/content/uploads/images/heroku8748.jpg" alt="heroku" width="30" height="30" />&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" width="30px" height="30px" />&nbsp;
+<img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" alt="GitHub" width="30px" height="30px" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
+
+
+

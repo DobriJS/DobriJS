@@ -5,6 +5,15 @@
 * -------------------------------------------------------------------------\
 * -------------------------------------------------------------------------.\
 
+### My favorite projects 💻
+<a href="https://github.com/DobriJS/mern-socialmedia-client">
+   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
+</a> 
+<a href="https://github.com/vasilyoshev/homepage-ui">
+   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
+</a>
+ <br />
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -24,6 +33,13 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" width="30px" height="30px" />&nbsp;
 <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" alt="GitHub" width="30px" height="30px" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
-
+<br />
+### GitHub Analytics ⚙️
+<a href="https://github.com/DobriJS">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/DobriJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</a>  
 
 

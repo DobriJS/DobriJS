@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi there, I'm Dobri 😊</b></h1>
   <br />
-  <h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">My favorite projects 💻</h2>
 <a href="https://github.com/DobriJS/mern-socialmedia-client">
    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
 </a> 
@@ -9,14 +9,15 @@
    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
 </a>
   <br />
+<h2 align="center">GitHub Analytics ⚙️</h2>
 <a href="https://github.com/DobriJS">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/DobriJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>  
   <br />    
-<h3 align="center"> Languages and Tools</h3>
+<h3 align="center">Languages and Tools 🛠</h3>
   <br />
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank">

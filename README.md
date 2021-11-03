@@ -3,11 +3,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 * In the search for a position where I can enhance my skillset in web technologies to develop and implement solutions to meet business needs.
-* Seeking a career in Information Technology with a special interest in web development, web design, and mobile application development.
-* -------------------------------------------------------------------------\
+* Seeking to start a career in Information Technology with a special interest in web development, web design, and mobile application development.
+* Having a positive outlook and am always willing to learn new traits. I work well both independently and as part of a team.
 * -------------------------------------------------------------------------.\
 
-### My favorite projects 💻
+### 💻 My favorite projects 
 <a href="https://github.com/DobriJS/mern-socialmedia-client">
    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
 </a> 
@@ -34,12 +34,14 @@
 <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" alt="GitHub" width="30px" height="30px" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
 <br />
-### GitHub Analytics ⚙️
+### ⚙️ GitHub Analytics 
 <a href="https://github.com/DobriJS">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/DobriJS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>  
+</a>
+
+### 📫 How to reach me ! 
 
 

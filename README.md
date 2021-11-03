@@ -7,17 +7,18 @@
 * Having a positive outlook and am always willing to learn new traits. I work well both independently and as part of a team.
 * -------------------------------------------------------------------------.\
 
-### 💻 My favorite projects 
+### 💻 My favorite projects
+<p align="center">
 <a href="https://github.com/DobriJS/mern-socialmedia-client">
-   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
 </a> 
 <a href="https://github.com/vasilyoshev/homepage-ui">
-   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
 </a>
+  </p>
  <br />
 
 ### 🛠 &nbsp;Tech Stack
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="30" height="30" />&nbsp;
@@ -33,17 +34,17 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs code" width="30px" height="30px" />&nbsp;
 <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" alt="GitHub" width="30px" height="30px" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
-<br />
+
 ### ⚙️ GitHub Analytics 
 <p align="center">
 <a href="https://github.com/DobriJS">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/DobriJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 </p>
-### 📫 How to reach me ! 
+
+###  📫 How to reach me ! 
 * Facebook: https://www.facebook.com/jededaih.redwoods/
 * Gmail: dobri.dobrevski@gmail.com
-

@@ -43,5 +43,6 @@
 </a>
 
 ### 📫 How to reach me ! 
-
+* Facebook: https://www.facebook.com/jededaih.redwoods/
+* Gmail: dobri.dobrevski@gmail.com
 

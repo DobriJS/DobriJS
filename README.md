@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 * In the search for a position where I can enhance my skillset in web technologies to develop and implement solutions to meet business needs.
-* Seeking to start a career in Information Technology with a special interest in web development, web design, and mobile application development.
 * Having a positive outlook and am always willing to learn new traits. I work well both independently and as part of a team.
 * I'm on track for learning more about Web Applications Architecture, SOLID Design Principles
 

@@ -11,9 +11,6 @@
 <a href="https://github.com/DobriJS/mern-socialmedia-client">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
 </a> 
-<a href="https://github.com/vasilyoshev/homepage-ui">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasilyoshev&repo=homepage-ui&theme=dark&show_owner=true" />
-</a>
   </p>
  <br />
 

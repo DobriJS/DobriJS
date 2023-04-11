@@ -6,14 +6,6 @@
 * Having a positive outlook and am always willing to learn new traits. I work well both independently and as part of a team.
 * I'm on track for learning more about Web Applications Architecture, SOLID Design Principles
 
-### 💻 My favorite projects
-<p align="center">
-<a href="https://github.com/DobriJS/mern-socialmedia-client">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DobriJS&repo=mern-socialmedia-client&theme=dark&show_owner=true" />
-</a> 
-  </p>
- <br />
-
 ### 🛠 &nbsp;Tech Stack
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />&nbsp;

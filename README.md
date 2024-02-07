@@ -4,9 +4,11 @@
 
 * In the search for a position where I can enhance my skillset in web technologies to develop and implement solutions to meet business needs.
 * Having a positive outlook and am always willing to learn new traits. I work well both independently and as part of a team.
-* I'm on track for learning more about Web Applications Architecture, SOLID Design Principles
+* I'm on track for learning more about DevOps culture and practices
 
 ### 🛠 &nbsp;Tech Stack
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45emvFAkTdBl3oIn32zQK_eE5hWXzyL9ELP5b1hOweg&s" alt="html5" width="30" height="30" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="typescript" width="30" height="30" />&nbsp;

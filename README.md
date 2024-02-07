@@ -7,7 +7,7 @@
 * I'm on track for learning more about DevOps culture and practices
 
 ### 🛠 &nbsp;Tech Stack
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45emvFAkTdBl3oIn32zQK_eE5hWXzyL9ELP5b1hOweg&s" alt="html5" width="30" height="30" />&nbsp;
+<img src="https://miro.medium.com/v2/resize:fit:400/1*KWeXamv1oqIvzKLlPhn-rA.png" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />&nbsp;

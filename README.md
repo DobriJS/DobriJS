@@ -4,9 +4,11 @@
 
 * In the search for a position where I can enhance my skillset in web technologies to develop and implement solutions to meet business needs.
 * Having a positive outlook and am always willing to learn new traits. I work well both independently and as part of a team.
-* I'm on track for learning more about DevOps culture and practices
+* I'm on track for learning more about DevOps culture and practices, curios about cloud native applications and mighty Kubernetes
 
 ### 🛠 &nbsp;Tech Stack
+<img src="https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s900-c-k-c0x00ffffff-no-rj" alt="aws" width="30" height="30" />&nbsp;
+<img src="https://encore.dev/assets/resources/terraform_cover.png" alt="terraform" width="30" height="30" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="linux" width="30" height="30" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="k8s" width="30" height="30" />&nbsp;
 <img src="https://miro.medium.com/v2/resize:fit:400/1*KWeXamv1oqIvzKLlPhn-rA.png" alt="docker" width="30" height="30" />&nbsp;

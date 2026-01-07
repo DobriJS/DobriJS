@@ -28,6 +28,9 @@
 <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" alt="GitHub" width="30px" height="30px" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DobriJS=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ###  📫 How to reach me ! 
 * Facebook: https://www.facebook.com/jededaih.redwoods/
 * Gmail: dobri.dobrevski@gmail.com

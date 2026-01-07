@@ -28,16 +28,6 @@
 <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" alt="GitHub" width="30px" height="30px" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
 
-<p align="center">
-  <a href="https://github.com/DobriJS">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DobriJS&layout=compact&theme=dark&hide=html,css&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/DobriJS">
-    <img src="https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  </a>
-</p>
-
-
 ###  📫 How to reach me ! 
 * Facebook: https://www.facebook.com/jededaih.redwoods/
 * Gmail: dobri.dobrevski@gmail.com

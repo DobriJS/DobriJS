@@ -29,7 +29,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="30px" height="30px" />&nbsp;
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Dobri's GitHub stats](https://github-readme-stats.vercel.app/api?username=DobriJS&show_icons=true&theme=radical)
 
 ###  📫 How to reach me ! 
 * Facebook: https://www.facebook.com/jededaih.redwoods/
